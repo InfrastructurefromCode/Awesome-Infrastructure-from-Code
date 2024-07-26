@@ -1,6 +1,6 @@
-# Awesome Infrastrure from Code (IFC)
+# Awesome - Infrastructure from Code (IFC)
 
-### Emerging and Specialized IFC Frameworks
+### Emerging and Specialized IFC Frameworks 
 | Framework                       | Supported Languages                          | Description                                                         |
 |---------------------------------|----------------------------------------------|---------------------------------------------------------------------|
 | **AppCD**                       | Python, Java                                 | A framework supporting Python and Java for Infrastructure from Code. |
